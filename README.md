@@ -1,4 +1,4 @@
 
 # Open AVLike
 
-Open AVLike - Automatic Vehicle Location System
+Open Source AVLike - Automatic Vehicle Location System
